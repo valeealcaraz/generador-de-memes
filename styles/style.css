@@ -20,3 +20,24 @@ h1 {
 aside {
     width: 10%;
 }
+
+/* ESTO LO VAMOS A USAR PARA EL JS DE CAMBIO DE MODO OSCUTO A CLARO
+
+aside{
+    background-color: #f4f4f4 ;
+}
+
+body {
+    background-color: #EDEDED ;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header {
+    background-color: #E0E0E0;
+    color: #333030;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
